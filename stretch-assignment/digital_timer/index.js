@@ -41,6 +41,7 @@ arrButtons.forEach((button) => {
   button.style.fontSize = "1rem";
   button.style.backgroundColor = "lightBlue";
   button.style.border = "none";
+  button.style.cursor = "pointer";
 });
 
 resetBtn.style.backgroundColor = "gainsboro";
